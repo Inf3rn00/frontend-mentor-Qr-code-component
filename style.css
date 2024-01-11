@@ -34,16 +34,18 @@ body {
 }
 
 .content-holder {
-  padding: 0 13px;
+  padding: 13px;
 }
 
 h1 {
   color: hsl(218, 44%, 22%);
   font-size: 25px;
+  margin-top: 10px;
 }
 
 p {
   color: hsl(220, 15%, 55%);
-  font-size: 16px;
-  padding: 0.5rem;
+  font-size: 15px;
+  padding: 1rem;
+  /* margin-top: 10px; */
 }
