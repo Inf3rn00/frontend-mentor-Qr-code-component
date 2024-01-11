@@ -16,16 +16,19 @@ body {
 
 .main__container {
   background-color: hsl(0, 0%, 100%);
-  height: 30rem;
+  height: 510px;
   width: 300px;
   border-radius: 20px 20px;
-  padding: 10px;
 }
 .qr__holder {
   margin-top: 15px;
   height: 250px;
   width: 270px;
   border-radius: 15px 15px;
+}
+
+.content-holder {
+  padding: 0 11px;
 }
 
 h1 {
